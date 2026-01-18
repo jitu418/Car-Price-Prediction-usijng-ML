@@ -38,12 +38,12 @@ And you are good to go.
 ## How this project does?
 
 1. First of all the data was scraped from Quikr.com (https://quikr.com) 
-Link for data: https://github.com/reshavraj612-star/car-price-prediction/blob/main/quikr_car.csv
+Link for data: <a href="https://github.com/jitu418/Car-Price-Prediction-usijng-ML/blob/main/quikr_car.csv">Here </a>
 2. The data was cleaned it was super unclean :( ) and analysed.
 
 3. Then a Linear Regression model was built on top of it which had 0.92 R2_score.
 
-Link for notebook: "https://github.com/reshavraj612-star/car-price-prediction/blob/main/Quikr%20Analysis.ipynb"
+Link for notebook: <a href="https://github.com/jitu418/Car-Price-Prediction-usijng-ML/blob/main/Quikr%20Analysis.ipynb">Here</a>
 
 4. This project was given the form of an website built on Flask where we used the Linear Regression model to perform predictions.
 
